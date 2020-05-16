@@ -11,3 +11,4 @@ print(a%b)     #1
 print()
 
 print(a + b / 2 - a * 2)
+print(a+(b/2)-(a*2))
